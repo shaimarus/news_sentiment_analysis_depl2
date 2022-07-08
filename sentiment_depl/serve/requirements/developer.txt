@@ -1,0 +1,14 @@
+-r common.txt
+mock
+pytest
+pylint==2.6.0
+pytest-mock
+pytest-cov
+grpcio
+protobuf
+grpcio-tools
+transformers==4.11.0
+pyspelling
+pygit2==1.6.1
+pyspelling
+pre-commit

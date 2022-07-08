@@ -1,0 +1,16 @@
+2022-06-29T14:53:55,869 - HandlerTime.Milliseconds:897.11|#ModelName:sentiments,Level:Model|#hostname:faa7df4c9bd3,requestID:7744f2e4-fdbd-48d4-8c93-ba8ada8bc8dc,timestamp:1656514435
+2022-06-29T14:53:55,872 - PredictionTime.Milliseconds:900.21|#ModelName:sentiments,Level:Model|#hostname:faa7df4c9bd3,requestID:7744f2e4-fdbd-48d4-8c93-ba8ada8bc8dc,timestamp:1656514435
+2022-06-29T14:55:36,892 - HandlerTime.Milliseconds:930.44|#ModelName:sentiments,Level:Model|#hostname:faa7df4c9bd3,requestID:9b72a6d6-1e78-479d-b12b-8ea5425d8bb4,timestamp:1656514536
+2022-06-29T14:55:36,895 - PredictionTime.Milliseconds:941.0|#ModelName:sentiments,Level:Model|#hostname:faa7df4c9bd3,requestID:9b72a6d6-1e78-479d-b12b-8ea5425d8bb4,timestamp:1656514536
+2022-06-29T15:00:10,778 - HandlerTime.Milliseconds:877.08|#ModelName:sentiments,Level:Model|#hostname:faa7df4c9bd3,requestID:d993ea21-e21d-44e1-a3ca-e522f587231f,timestamp:1656514810
+2022-06-29T15:00:10,780 - PredictionTime.Milliseconds:881.18|#ModelName:sentiments,Level:Model|#hostname:faa7df4c9bd3,requestID:d993ea21-e21d-44e1-a3ca-e522f587231f,timestamp:1656514810
+2022-06-29T15:04:57,763 - HandlerTime.Milliseconds:835.53|#ModelName:sentiments,Level:Model|#hostname:faa7df4c9bd3,requestID:bf72fcdb-f010-4219-a614-892501baeac2,timestamp:1656515097
+2022-06-29T15:04:57,766 - PredictionTime.Milliseconds:839.32|#ModelName:sentiments,Level:Model|#hostname:faa7df4c9bd3,requestID:bf72fcdb-f010-4219-a614-892501baeac2,timestamp:1656515097
+2022-06-29T15:05:06,668 - HandlerTime.Milliseconds:669.35|#ModelName:sentiments,Level:Model|#hostname:faa7df4c9bd3,requestID:a78b3f1d-34eb-4723-9804-794123db07ee,timestamp:1656515106
+2022-06-29T15:05:06,670 - PredictionTime.Milliseconds:672.53|#ModelName:sentiments,Level:Model|#hostname:faa7df4c9bd3,requestID:a78b3f1d-34eb-4723-9804-794123db07ee,timestamp:1656515106
+2022-06-29T15:05:14,588 - HandlerTime.Milliseconds:841.97|#ModelName:sentiments,Level:Model|#hostname:faa7df4c9bd3,requestID:7310a0ea-e7a5-4c9e-b3ba-056edb67b2eb,timestamp:1656515114
+2022-06-29T15:05:14,592 - PredictionTime.Milliseconds:845.76|#ModelName:sentiments,Level:Model|#hostname:faa7df4c9bd3,requestID:7310a0ea-e7a5-4c9e-b3ba-056edb67b2eb,timestamp:1656515114
+2022-06-29T15:09:48,096 - HandlerTime.Milliseconds:726.13|#ModelName:sentiments,Level:Model|#hostname:faa7df4c9bd3,requestID:4a80c914-a530-483b-9cfa-29a0ca625fb6,timestamp:1656515388
+2022-06-29T15:09:48,099 - PredictionTime.Milliseconds:729.07|#ModelName:sentiments,Level:Model|#hostname:faa7df4c9bd3,requestID:4a80c914-a530-483b-9cfa-29a0ca625fb6,timestamp:1656515388
+2022-06-29T15:11:53,306 - HandlerTime.Milliseconds:501.67|#ModelName:sentiments,Level:Model|#hostname:faa7df4c9bd3,requestID:93862507-dfdb-422a-a07e-4fc42e041347,timestamp:1656515513
+2022-06-29T15:11:53,310 - PredictionTime.Milliseconds:505.81|#ModelName:sentiments,Level:Model|#hostname:faa7df4c9bd3,requestID:93862507-dfdb-422a-a07e-4fc42e041347,timestamp:1656515513
