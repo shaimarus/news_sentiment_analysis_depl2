@@ -6,4 +6,5 @@ RUN mkdir /opt/flask_serv/
 COPY . /opt/flask_serv/
 RUN pip3 install -r /opt/flask_serv/requirements.txt
 RUN cd /opt/flask_serv/sentiment_depl/serve/ && python ts_scripts/install_dependencies.py
+WORKDIR /opt/flask_serv/
 
